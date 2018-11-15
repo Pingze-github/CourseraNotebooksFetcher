@@ -122,9 +122,10 @@ def createLocalRepo(prefix, node, rootDir):
 
 def main():
     global cookie
-    cookie = 'jupyter-hub-token-jzpvoopfcbteoxgjrpwsyv="2|1:0|10:1542243920|40:jupyter-hub-token-jzpvoopfcbteoxgjrpwsyv|44:ZjM2MjRiYzcyMTkyNDAyMWEwZTMyMzA5OGM3MTllYTc=|be46f1a7a8b80e800bd7ec5fd934f037f52a1526d356a725f35472c993ea0856"; _xsrf=2|8448f35f|939cb795c6d4b6440e3dd0d269470845|1541988505; AWSALB=M7tXhmyKF4IdPJ/Ze304Oj+UxiXR9oZsMtp5bWcL2NbM7iuT1Re8gWTXhsadZZ77GDH+1EBrTB66tcuAF56+QWtST6pMHemfPDa7K8EMvNFbyvWmMzq0ZFMJcP8c'
-
     # ### YOUR CODE START ###
+    # The cookie to auth
+    cookie = ''
+
     # The web page of the notebooks repository's root path
     rootUrl = 'https://hub.coursera-notebooks.org/user/jzpvoopfcbteoxgjrpwsyv/tree'
     # ### YOUR CODE END ###

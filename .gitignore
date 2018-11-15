@@ -9,3 +9,4 @@ cookie-getter/
 cookies.json
 cookies-notebook.json
 secrets
+auth.py
