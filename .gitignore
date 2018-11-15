@@ -1,0 +1,11 @@
+*.pyc
+node_modules/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+tree_save/
+repo/
+cookie-getter/
+cookies.json
+cookies-notebook.json
+secrets
